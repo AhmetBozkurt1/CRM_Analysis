@@ -55,7 +55,13 @@ CLTV = (Customer Value / Churn Rate) * Profit Margin O**
 - **frequency** = tekrar eden alışveriş sayısıdır en az iki kere alışveriş yapması gerekli(frequency>1).
 - **monetary** = satın alma başına ortalama kazanç, toplam kazancın ortalmasıdır.
 
+## Kurulum
+☞ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
+- GitHub'dan projeyi klonlayın.
+- Projeyi içeren dizine gidin ve terminalde conda env create -f environment.yaml komutunu çalıştırarak gerekli bağımlılıkları yükleyin.
+- Derleyicinizi conda ortamına göre ayarlayın.
+- Projeyi bir Python IDE'sinde veya Jupyter Notebook'ta açın.
 
 
 
