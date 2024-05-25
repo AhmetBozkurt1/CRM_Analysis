@@ -59,8 +59,8 @@ CLTV = (Customer Value / Churn Rate) * Profit Margin O**
 ☞ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
 - GitHub'dan projeyi klonlayın.
-- Projeyi içeren dizine gidin ve terminalde conda env create -f environment.yaml komutunu çalıştırarak gerekli bağımlılıkları yükleyin.
-- Derleyicinizi conda ortamına göre ayarlayın.
+- Projeyi içeren dizine gidin ve terminalde `conda env create -f environment.yaml` komutunu çalıştırarak gerekli bağımlılıkları yükleyin.
+- Derleyicinizi `conda` ortamına göre ayarlayın.
 - Projeyi bir Python IDE'sinde veya Jupyter Notebook'ta açın.
 
 
