@@ -30,7 +30,7 @@ pd.set_option("display.max_columns", None)
 pd.set_option("display.width", 500)
 
 # Adım 1: Online Retail II excelindeki 2010-2011 verisini okuyunuz. Oluşturduğunuz dataframe’in kopyasını oluşturunuz.
-df_ = pd.read_excel("Crm Analytics/flo_dataSet_çözüm/dataset/online_retail_II.xlsx", sheet_name=("Year 2010-2011"))
+df_ = pd.read_excel("online_retail_II.xlsx", sheet_name=("Year 2010-2011"))
 df = df_.copy()
 
 # Adım 2: Veri setinin betimsel istatistiklerini inceleyiniz.

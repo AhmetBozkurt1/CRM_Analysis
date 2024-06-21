@@ -82,7 +82,7 @@ pd.set_option("display.max_row", None)
 pd.set_option("display.width", 500)
 
 # 1. Veri setini okutunuz.
-df = pd.read_csv("/Users/ahmetbozkurt/Desktop/CRM_Analysis/rfm_cltv_analiz/dataset/shopping_data.csv")
+df = pd.read_csv("shopping_data.csv")
 
 # 2. Veri setinde
 # a. İlk 10 gözlem,

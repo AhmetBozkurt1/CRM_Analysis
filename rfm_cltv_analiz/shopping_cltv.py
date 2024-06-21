@@ -76,7 +76,7 @@ pd.set_option("display.width", 500)
 # GÖREV 1: Veriyi Hazırlama
 ###############################################################
 # 1. Veri setini okutunuz.
-df = pd.read_csv("/Users/ahmetbozkurt/Desktop/CRM_Analysis/rfm_cltv_analiz/dataset/shopping_data.csv")
+df = pd.read_csv("shopping_data.csv")
 df.head()
 df.isnull().sum()
 df.info()
